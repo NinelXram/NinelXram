@@ -1,4 +1,3 @@
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=42B983&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Bao;Frontend+Developer;Vue%2FVite+Evangelist;Micro-Frontend+Architect" alt="Typing SVG" />
 </h1>
@@ -36,8 +35,29 @@
 
 <!-- GitHub Stats --><div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=NinelXram&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NinelXram&layout=compact&theme=vue-dark&hide_border=true&langs_count=6" /> </div>
 
-----------
+---
 
+### 🚀 **Innovation Playground - Side Projects**
+
+<div align="center">
+  <strong>Where I experiment with cutting-edge tech and solve real-world problems</strong>
+</div>
+
+#### 🔥 AI-Powered Productivity Suite
+| **Project** | **Description** | **Tech Stack** | **Live Demo** |
+|-------------|-----------------|----------------|---------------|
+| **Chicken Order** | AI restaurant management system automating voice orders and customer experience | GenAI, Vue, Firebase | [Demo](https://chickenorder.web.app/) |
+| **Chicken Read** | Chrome extension for AI text summarization and analysis | GenAI, Chrome API | [Web Store](https://chromewebstore.google.com/detail/chicken-read/foijbdfpbjdpcdmegdjbmmeejcbfmeh) |
+| **Chicken Code** | VS Code extension for AI-powered code optimization | GenAI, VS Code API | [Marketplace](https://marketplace.visualstudio.com/items?itemName=Chickencodedoptimizer.chicken-code) |
+| **Chicken Translate** | Instant text replacement translator for Chrome | Google Translate API | [GitHub](https://github.com/NinelXram/chicken-translate) |
+
+#### 🖥️ Desktop & Automation Solutions
+| **Project** | **Description** | **Tech Stack** | **Repository** |
+|-------------|-----------------|----------------|----------------|
+| **Electron Vue SQLite** | Enterprise desktop app template | Electron, Vue 3, SQLite | [GitHub](https://github.com/NinelXram/electron-vue-sqlite-template) |
+| **EduScore Analyzer** | Telegram bot for academic transcript processing | n8n, GenAI, Telegram API | [GitHub](https://github.com/NinelXram) |
+
+---
 
 ### 💌 **Let's Build Something Amazing**
 
@@ -50,9 +70,12 @@
 <p align="center" style="margin-top: 8px;">
   <em>I'm always excited to discuss:<br>
   🚀 Frontend Architecture • 🧩 Micro-Frontend Solutions<br>
-  🖥️ Desktop Apps • 🤖 Automation Ideas</em>
+  🖥️ Desktop Apps • 🤖 Automation Ideas • 🧠 GenAI Integration</em>
 </p>
 
 ----------
 
-<p align="center"> <em>"We don't just write code - we architect experiences that users fall in love with."</em> ✨<br> <sub>P.S. Let's grab virtual coffee and discuss how micro-frontends can transform your next project!</sub> </p> 
+<p align="center"> 
+  <em>"Transforming ideas into intelligent solutions - one line of code at a time."</em> ✨<br> 
+  <sub>P.S. Let's explore how AI-powered development can revolutionize your workflow!</sub> 
+</p>
