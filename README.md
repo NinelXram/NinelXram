@@ -47,15 +47,15 @@
 | **Project** | **Description** | **Tech Stack** | **Live Demo** |
 |-------------|-----------------|----------------|---------------|
 | **Chicken Order** | AI restaurant management system automating voice orders and customer experience | GenAI, Vue, Firebase | [Demo](https://chickenorder.web.app/) |
-| **Chicken Read** | Chrome extension for AI text summarization and analysis | GenAI, Chrome API | [Web Store](https://chromewebstore.google.com/detail/chicken-read/foijbdfpbjdpcdmegdjbmmeejcbfmeh) |
-| **Chicken Code** | VS Code extension for AI-powered code optimization | GenAI, VS Code API | [Marketplace](https://marketplace.visualstudio.com/items?itemName=Chickencodedoptimizer.chicken-code) |
+| **Chicken Read** | Chrome extension for AI text summarization and analysis | GenAI, Chrome API | [Web Store](https://chromewebstore.google.com/detail/chicken-read/foijbdfpbjdpocdmegdjbmmcejcbfmeh) |
+| **Chicken Code** | VS Code extension for AI-powered code optimization | GenAI, VS Code API | [Marketplace](https://marketplace.visualstudio.com/items?itemName=Chickencodeoptimizer.chicken-code) |
 | **Chicken Translate** | Instant text replacement translator for Chrome | Google Translate API | [GitHub](https://github.com/NinelXram/chicken-translate) |
 
 #### 🖥️ Desktop & Automation Solutions
 | **Project** | **Description** | **Tech Stack** | **Repository** |
 |-------------|-----------------|----------------|----------------|
 | **Electron Vue SQLite** | Enterprise desktop app template | Electron, Vue 3, SQLite | [GitHub](https://github.com/NinelXram/electron-vue-sqlite-template) |
-| **EduScore Analyzer** | Telegram bot for academic transcript processing | n8n, GenAI, Telegram API | [GitHub](https://github.com/NinelXram) |
+| **EduScore Analyzer** | Telegram bot for academic transcript processing | n8n, GenAI, Telegram API |
 
 ---
 
